@@ -9,5 +9,7 @@ public class PullscmTest {
 	public void test()
 	{
 		Reporter.log("pollscn class executed",true);
+		Reporter.log("jenkins class executed",true);
+		
 	}
 }
